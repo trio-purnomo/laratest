@@ -13,3 +13,5 @@ Instalation step
 To perform unit testing
 
 * `phpunit`
+
+To change the admin notification email address, change the email on cofig/admin.php
