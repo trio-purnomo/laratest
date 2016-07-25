@@ -13,7 +13,7 @@
 		Nama : {{ $name }}<br />
 		Email : {{ $email }}<br />
 		Phone : {{ $phone }}<br />
-		Ocupation: {{ $phone }}<br />
+		Ocupation: {{ $ocupation }}<br />
 		</div>
 	</body>
 </html>
